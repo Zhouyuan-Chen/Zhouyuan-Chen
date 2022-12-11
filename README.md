@@ -14,3 +14,32 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part1/picture12.jpg" width="50%">
+
+Hi, I am Cavers Chen and this is my personal website!
+
+I am a ZJUT student and my interest is computer graphics, because computer graphics is awesome!!!
+
+Since this page is built for people to get to know me more quickly, you can check the following projects in that I have participated related to CG.
+
+### Tooth Medical Software:
+- collision detection and visualization part
+- - code(Code is not available due to confidentiality requirements.)
+- - pictures of the software
+
+- undercut construction and visualization part
+- - code(Code is not available due to confidentiality requirements.)
+- - pictures of the software
+
+### NetEase EStar-Plan
+- - code(Code is not available due to confidentiality requirements.)
+- - Report
+
+### Rendering Engine:
+- code
+- picture
+
+
+
+
+
