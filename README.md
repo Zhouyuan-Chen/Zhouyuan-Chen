@@ -23,11 +23,11 @@ Since this page is built for people to get to know me more quickly, you can chec
 ### Tooth Medical Software:
 - collision detection and visualization part
 - - code(Code is not available due to confidentiality requirements.)
-- - pictures of the software
+- - [pictures of the software](https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/README.md)
 
 - undercut construction and visualization part
 - - code(Code is not available due to confidentiality requirements.)
-- - pictures of the software
+- - [pictures of the software](https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/README.md)
 
 ### NetEase EStar-Plan
 - - code(Code is not available due to confidentiality requirements.)
