@@ -68,11 +68,15 @@ This is an open class offered by an Internet company, and I am honored to be abl
 
 ### My First Game With C
 
-The beginning of my dream. I wrote this in my first summer vacation when I was a first year undergraduate. I learned a simple graphics library called EasyX, which is simple as it said. I remained the code, but unfortunately, the video of this game I played were missed.
+The beginning of my dream. I wrote this in my first summer vacation when I was a first year undergraduate. I learned a simple graphics library called EasyX, which is simple as it said. This game first be realized on VS2017, later the game was ported to the BC platform. I remained the code, but unfortunately, the video of this game I played were missed.
+* two pictures during playing
+<img decoding="async" src="https://github.com/Cavers-Chen/MyGames/blob/main/my%20football%20game/picture/game1.png" width="50%">
+<img decoding="async" src="https://github.com/Cavers-Chen/MyGames/blob/main/my%20football%20game/picture/game2.png" width="50%">
+* I was the honored player ---- CZY!!!!! lol
+<img decoding="async" src="https://github.com/Cavers-Chen/MyGames/blob/main/my%20football%20game/picture/club.png">
 
-I also wrote some small games while I tried to code this project, you can check it here! [tiny games](https://github.com/Cavers-Chen/Mini-Game)
-
-[code]()
+I also wrote some small games while I tried to code this project, you can check it here! 
+* [tiny games](https://github.com/Cavers-Chen/Mini-Game)
 
 
 
