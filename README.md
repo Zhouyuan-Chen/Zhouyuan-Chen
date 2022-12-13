@@ -48,7 +48,7 @@ with the tutorial of Peter Shirley, I had a basic understanding of ray tracing a
 
 - [code and more picture](https://github.com/Cavers-Chen/RayTracingInOneWeek)
 
-### Shadertoy fmb noise
+### Shadertoy
 
 I was fansinated with those amazing effect solely made by shader. In this aspect, Inigo Quilez is GOD(Don't know Inigo Quilez? check this [youtuber](https://www.youtube.com/c/InigoQuilez).)
 
@@ -61,8 +61,10 @@ Inspired by some shaders which imitate the effect of cloud, I did some research 
 <img decoding="async" src="https://github.com/Cavers-Chen/ShaderToy_Shader/blob/main/noise/land.png" width="50%">
 
 ### NetEase EStar-Plan
-- - code(Code is not available due to confidentiality requirements.)
-- - [Report](https://github.com/Cavers-Chen/NetEase-Rendering)
+
+This is an open class offered by an Internet company, and I am honored to be able to participate. I learned how to write basic GLSL in this class, and found there is a big gap between industry and academia in computer graphics.
+
+- code and report(Code is not available due to confidentiality requirements.)
 
 
 
