@@ -66,6 +66,14 @@ This is an open class offered by an Internet company, and I am honored to be abl
 
 - code and report(Code is not available due to confidentiality requirements.)
 
+### My First Game With C
+
+The beginning of my dream. I wrote this in my first summer vacation when I was a first year undergraduate. I learned a simple graphics library called EasyX, which is simple as it said. I remained the code, but unfortunately, the video of this game I played were missed.
+
+I also wrote some small games while I tried to code this project, you can check it here! [tiny games](https://github.com/Cavers-Chen/Mini-Game)
+
+[code]()
+
 
 
 
