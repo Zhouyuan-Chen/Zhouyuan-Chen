@@ -12,8 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img decoding="async" src="https://github.com/Cavers-Chen/ShaderToy_Shader/blob/main/noise/wave.png" width="50%">
-fmb shader[check the source code and video](https://www.shadertoy.com/view/fs3cRn)
+
 
 Hi, I am Cavers Chen and this is my personal website!
 
@@ -42,6 +41,15 @@ Since this page is built for people to get to know me more quickly, you can chec
 
 - code
 - picture
+
+### Shadertoy fmb noise
+
+* shallow wave [check the source code and video](https://www.shadertoy.com/view/fs3cRn)
+<img decoding="async" src="https://github.com/Cavers-Chen/ShaderToy_Shader/blob/main/noise/wave.png" width="50%">
+
+* land [check the source code and video](https://www.shadertoy.com/view/Nd3cR4)
+<img decoding="async" src="https://github.com/Cavers-Chen/ShaderToy_Shader/blob/main/noise/land.png" width="50%">
+
 
 
 
