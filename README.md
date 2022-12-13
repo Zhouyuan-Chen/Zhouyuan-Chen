@@ -76,8 +76,8 @@ The beginning of my dream. I wrote this in my first summer vacation when I was a
 * Although I don't play football in real life, I was the honored player in this game. -- No.3 czy
 <img decoding="async" src="https://github.com/Cavers-Chen/MyGames/blob/main/my%20football%20game/picture/club.png">
 
-I also wrote some small games while I tried to code this project, you can check all of them here! 
-* [MyGames_CODE](https://github.com/Cavers-Chen/Mini-Game)
+* I also wrote some small games while I tried to code this project, you can check all of them here! 
+[MyGames_CODE](https://github.com/Cavers-Chen/Mini-Game)
 
 
 
