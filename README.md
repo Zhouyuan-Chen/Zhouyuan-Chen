@@ -35,6 +35,7 @@ Since this page is built for people to get to know me more quickly, you can chec
 - - [Video](https://www.youtube.com/watch?v=vhRDIrhJ9h4)
 
 ### Rendering Engine:
+with the tutorial of Peter Shirley, I had a basic understanding of ray tracing algorithms. Also, I read some related books he recommended in this tutorial for further learing, such as Advanced Global Illumination. Later I wrote a fluid simulation solver, however, this part of code missed because of my error of my computer(I should regularly upload my code...)
 
 * final work of part one (use 12 hours to get this result)
 <img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part1/picture12.jpg" width="50%">
@@ -48,6 +49,10 @@ Since this page is built for people to get to know me more quickly, you can chec
 - [code and more picture](https://github.com/Cavers-Chen/RayTracingInOneWeek)
 
 ### Shadertoy fmb noise
+
+I was fansinated with those amazing effect solely made by shader. In this aspect, Inigo Quilez is GOD(Don't know Inigo Quilez? check this [youtuber](https://www.youtube.com/c/InigoQuilez).)
+
+Inspired by some shaders which imitate the effect of cloud, I did some research and found this specific effect is created by fractal noise(Fractal Brownian Motion-FBM), you can use this to create the wave, cloud, end even landscape!
 
 * shallow wave [check the source code and video](https://www.shadertoy.com/view/fs3cRn)
 <img decoding="async" src="https://github.com/Cavers-Chen/ShaderToy_Shader/blob/main/noise/wave.png" width="50%">
