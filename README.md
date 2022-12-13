@@ -12,7 +12,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part1/picture12.jpg" width="50%">
+<img decoding="async" src="https://github.com/Cavers-Chen/ShaderToy_Shader/blob/main/noise/wave.png" width="50%">
+fmb shader[check the source code and video](https://www.shadertoy.com/view/fs3cRn)
 
 Hi, I am Cavers Chen and this is my personal website!
 
@@ -36,6 +37,9 @@ Since this page is built for people to get to know me more quickly, you can chec
 - - Report
 
 ### Rendering Engine:
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part1/picture12.jpg" width="50%">
+
 - code
 - picture
 
