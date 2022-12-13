@@ -24,10 +24,12 @@ Since this page is built for people to get to know me more quickly, you can chec
 - collision detection and visualization part
 - - code(Code is not available due to confidentiality requirements.)
 - - [pictures of the software](https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/README.md)
+- - [Video](https://www.youtube.com/watch?v=SK7BsINxNnI)
 
 - undercut construction and visualization part
 - - code(Code is not available due to confidentiality requirements.)
 - - [pictures of the software](https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/README.md)
+- - [Video](https://www.youtube.com/watch?v=vhRDIrhJ9h4)
 
 ### NetEase EStar-Plan
 - - code(Code is not available due to confidentiality requirements.)
