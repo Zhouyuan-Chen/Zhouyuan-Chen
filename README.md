@@ -21,6 +21,9 @@ I am a ZJUT student and my interest is computer graphics, because computer graph
 Since this page is built for people to get to know me more quickly, you can check the following projects in that I have participated related to CG.
 
 ### Tooth Medical Software:
+
+<img decoding="async" src="https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/pictures/main.png" width="50%">
+
 - collision detection and visualization part
 - - code(Code is not available due to confidentiality requirements.)
 - - [pictures of the software](https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/README.md)
@@ -31,16 +34,18 @@ Since this page is built for people to get to know me more quickly, you can chec
 - - [pictures of the software](https://github.com/Cavers-Chen/Tooth-Pictures/blob/main/README.md)
 - - [Video](https://www.youtube.com/watch?v=vhRDIrhJ9h4)
 
-### NetEase EStar-Plan
-- - code(Code is not available due to confidentiality requirements.)
-- - Report
-
 ### Rendering Engine:
 
+* final work of part one (use 12 hours to get this result)
 <img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part1/picture12.jpg" width="50%">
 
-- code
-- picture
+* Perlin noise + light source
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/p6.png" width="50%">
+
+* some TERRIBLE things happened...
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/p7_4.png" width="50%">
+
+- [code and more picture](https://github.com/Cavers-Chen/RayTracingInOneWeek)
 
 ### Shadertoy fmb noise
 
@@ -49,6 +54,10 @@ Since this page is built for people to get to know me more quickly, you can chec
 
 * land [check the source code and video](https://www.shadertoy.com/view/Nd3cR4)
 <img decoding="async" src="https://github.com/Cavers-Chen/ShaderToy_Shader/blob/main/noise/land.png" width="50%">
+
+### NetEase EStar-Plan
+- - code(Code is not available due to confidentiality requirements.)
+- - [Report](https://github.com/Cavers-Chen/NetEase-Rendering)
 
 
 
