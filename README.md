@@ -35,7 +35,7 @@ Since this page is built for people to get to know me more quickly, you can chec
 - - [Video](https://www.youtube.com/watch?v=vhRDIrhJ9h4)
 
 ### Rendering Engine:
-with the tutorial of Peter Shirley, I had a basic understanding of ray tracing algorithms. Also, I read some related books he recommended in this tutorial for further learing, such as Advanced Global Illumination. Later I wrote a fluid simulation solver, however, this part of code missed because of my error of my computer(I should regularly upload my code...)
+with the tutorial of Peter Shirley, I had a basic understanding of ray tracing algorithms. Also, I read some related books he recommended in this tutorial for further learning, such as Advanced Global Illumination. Later I wrote a fluid simulation solver, however, this part of the code was missed because of an error on my computer(I should regularly upload my code...)
 
 * final work of part one (use 12 hours to get this result)
 <img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part1/picture12.jpg" width="50%">
