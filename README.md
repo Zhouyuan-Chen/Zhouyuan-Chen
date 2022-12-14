@@ -74,7 +74,7 @@ The beginning of my dream. I wrote this in my first summer vacation when I was a
 
 ### NetEase EStar-Plan
 
-This is an open class offered by an Internet company, and I am honored to be able to participate. I learned how to write basic GLSL in this class, and found there is a big gap between industry and academia in computer graphics.
+This is an open class offered by an Internet company, and I am honored to be able to participate. I learned how to write basic GLSL language in this class, implemented some basic functions(camera function, PBR, IBL), and found there is a big gap between industry and academia in computer graphics.
 
 - code and report(Code is not available due to confidentiality requirements.)
 
