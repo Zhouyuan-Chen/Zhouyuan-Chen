@@ -80,6 +80,6 @@ This is an open class offered by an Internet company, and I am honored to be abl
 
 ### Recent Plan
 
-I plan to learn some stuff about NPR, especially for the drawline alogrithms, hope I am able to make a animation demo later...
+I plan to learn some stuff about NPR, especially the line-drawing algorithms. Doing so would help me review my knowledge of topology or OpenGl using, hope I am able to make an interesting demo later...
 
 After entering graduate college, I would like to make my study more specific and focus on rendering/simulation/geometry.
