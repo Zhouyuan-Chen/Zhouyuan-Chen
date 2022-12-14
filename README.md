@@ -79,11 +79,9 @@ The beginning of my dream. I wrote this in my first summer vacation when I was a
 * I also wrote some small games while I tried to code this project, you can check all of them here! 
 [MyGames_CODE](https://github.com/Cavers-Chen/Mini-Game)
 
-<img decoding="async" src="https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966">
 
+### Recent Plan
 
+I plan to learn some stuff about NPR, especially for the drawline alogrithms, hope I am able to make a animation demo later...
 
-
-
-
-
+<img decoding="async" src="https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" width="40%">
