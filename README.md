@@ -80,7 +80,7 @@ This is an open class offered by an Internet company, and I am honored to be abl
 
 ### Recent Plan
 
-Currently, I am working on implementing a collision detection library, I call it [ColCal](https://github.com/Cavers-Chen/ColCal)(Collision Calculation Library)
+Currently, I am working on implementing a collision detection library, I call it ColCal(Collision Calculation Library), you can check source code by clicking [this](https://github.com/Cavers-Chen/ColCal)!
 
 Meanwhile, I plan to learn some stuff about NPR, especially the line-drawing algorithms. Doing so would help me review my knowledge of topology or OpenGl using, hope I am able to make an interesting demo later...
 
