@@ -82,6 +82,8 @@ This is an open class offered by an Internet company, and I am honored to be abl
 
 Currently, I am working on implementing a collision detection library, I call it ColCal(Collision Calculation Library), you can check source code by clicking [this](https://github.com/Cavers-Chen/ColCal)!
 
-Meanwhile, I plan to learn some stuff about NPR, especially the line-drawing algorithms. Doing so would help me review my knowledge of topology or OpenGl using, hope I am able to make an interesting demo later...
+Meanwhile, I had learned some stuff about NPR, especially the line-drawing algorithms. Doing so helps me review my knowledge of topology, hope I am able to make an interesting demo later...
+
+Now, I am schooling myself the geometry processing by watching and finishing online [courses](https://user.ceng.metu.edu.tr/~ys/ceng789-dgp/). 
 
 After entering graduate college, I would like to make my study more specific and focus on rendering/simulation/geometry.
