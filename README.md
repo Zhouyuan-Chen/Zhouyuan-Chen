@@ -86,8 +86,8 @@ Currently, I am working on implementing a collision detection library, I call it
 
 Meanwhile, since my former simulation code was missed, I plan to realize particle-based simulation and grid-based simulation these days. You can check source code by clicking [this](https://github.com/Cavers-Chen/PhysicalSimulation);
 
-### Future Plan
+I found that there are lots of fun in geometry(mesh stuff) since many fantastic works based on it, such as using mesh to assist factors in producing tooth model, sweaters or even plastic(inflatable bag which can change it's shape). Therefore, I take digital geometry processing by watching and finishing online [courses](https://user.ceng.metu.edu.tr/~ys/ceng789-dgp/). 
 
-I would like to dig deeper into geometry(mesh stuff) since I found some professors did lots of fantastic work based on it, such as using mesh to assist factor in producing sweaters or even plastic(inflatable bag which can change it's shape) I am already schooling myself the geometry processing by watching and finishing online [courses](https://user.ceng.metu.edu.tr/~ys/ceng789-dgp/). 
+### Future Plan
 
 After entering graduate college, I would like to make my study more specific and focus on one of the aspects of rendering/simulation/geometry.
