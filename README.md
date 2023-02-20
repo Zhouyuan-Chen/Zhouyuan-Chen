@@ -86,4 +86,4 @@ Meanwhile, I had learned some stuff about NPR, especially the line-drawing algor
 
 Now, I am schooling myself the geometry processing by watching and finishing online [courses](https://user.ceng.metu.edu.tr/~ys/ceng789-dgp/). 
 
-After entering graduate college, I would like to make my study more specific and focus on rendering/simulation/geometry.
+After entering graduate college, I would like to make my study more specific and focus on one of aspects between rendering/simulation/geometry.
