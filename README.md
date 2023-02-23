@@ -82,9 +82,11 @@ This is an open class offered by an Internet company, and I am honored to be abl
 
 During the Spring Festival this year, I learned some stuff about NPR(I read this [tutorial](https://hal.inria.fr/hal-02189483/file/contour_tutorial.pdf) and had a basic understanding of the NPR), especially the line-drawing algorithms. Doing so helps me review my knowledge of topology, hope I am able to make an interesting demo later...
 
-Currently, I am working on implementing a collision detection library, I call it ColCal(Collision Calculation Library), you can check source code by clicking [this](https://github.com/Cavers-Chen/ColCal)!
+Currently, I am working on implementing a collision detection library, I call it ColCal(Collision Calculation Library)
+* [source code](https://github.com/Cavers-Chen/ColCal)!
 
-Meanwhile, since my former simulation code was missed, I plan to realize particle-based simulation and grid-based simulation these days. You can check source code by clicking [this](https://github.com/Cavers-Chen/PhysicalSimulation);
+Meanwhile, since my former simulation code was missed, I plan to realize particle-based simulation and grid-based simulation these days.
+* [source code](https://github.com/Cavers-Chen/PhysicalSimulation);
 
 I found that there is a lot of fun in geometry(mesh stuff) since many fantastic works are based on it, such as using mesh to assist factors in producing tooth model, sweaters or even plastic(inflatable bag which can change it's shape). Therefore, I take digital geometry processing these days by watching and finishing online [courses](https://user.ceng.metu.edu.tr/~ys/ceng789-dgp/). 
 
