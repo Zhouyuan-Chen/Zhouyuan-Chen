@@ -80,7 +80,7 @@ This is an open class offered by an Internet company, and I am honored to be abl
 
 ### Recent Study
 
-During the Spring Festival this year, I learned some stuff about NPR(I read this [tutorial](https://hal.inria.fr/hal-02189483/file/contour_tutorial.pdf) and had a basic understanding of the NPR), especially the line-drawing algorithms. Doing so helps me review my knowledge of topology, hope I am able to make an interesting demo later...
+#### ColCal(Collision Calculation Library)
 
 Currently, I am working on implementing a collision detection library, I call it ColCal(Collision Calculation Library). Now you can check the source code by clicking this link!
 * [source code](https://github.com/Cavers-Chen/ColCal)
@@ -96,10 +96,7 @@ Currently, I am working on implementing a collision detection library, I call it
 ///////                                                   ///////
 /////////////////////////////////////////////////////////////////
 ```
-
-
-Meanwhile, since my former simulation code was missed, I plan to realize particle-based simulation and grid-based simulation these days.
-* [source code](https://github.com/Cavers-Chen/PhysicalSimulation)
+#### Geometry Processing
 
 I found that there is a lot of fun in geometry(mesh stuff) since many fantastic works are based on it, such as using mesh to assist factors in producing tooth model, sweaters or even plastic(inflatable bag which can change it's shape). Therefore, I am taking digital geometry processing these days by finishing online [coursework](https://github.com/Cavers-Chen/GeometryProcessing_). 
 
@@ -109,8 +106,17 @@ Cat model reconstruction - from assignment 2
 | :--- | --- | :--- |
 | <img decoding="async" src="https://github.com/Cavers-Chen/GeometryProcessing_/blob/main/assignment2/res/constrait/1.png" width="50%"> | <img decoding="async" src="https://github.com/Cavers-Chen/GeometryProcessing_/blob/main/assignment2/res/constrait/11.png" width="50%"> | <img decoding="async" src="https://github.com/Cavers-Chen/GeometryProcessing_/blob/main/assignment2/res/reconstruct_model/1.png" width="50%"> |
 
+#### Misc
 
+This early year, I relatively have more spare time, so I would like learn some interesting things.
 
+* I learned some stuff about NPR(I read this [tutorial](https://hal.inria.fr/hal-02189483/file/contour_tutorial.pdf) and had a basic understanding of the NPR), especially the line-drawing algorithms. Doing so helps me review my knowledge of topology, hope I am able to make an interesting demo later...
+
+* Meanwhile, since my former simulation code was missed, I plan to realize particle-based simulation and grid-based simulation these days.
+* * [source code](https://github.com/Cavers-Chen/PhysicalSimulation)
+
+* Reading an OS tutorial and making DIY-operation system.
+* * [source_code](https://github.com/Cavers-Chen/OS-Development)
 
 ### Future Plan
 
