@@ -88,9 +88,9 @@ Currently, I am working on implementing a collision detection library, I call it
 Meanwhile, since my former simulation code was missed, I plan to realize particle-based simulation and grid-based simulation these days.
 * [source code](https://github.com/Cavers-Chen/PhysicalSimulation)
 
-I found that there is a lot of fun in geometry(mesh stuff) since many fantastic works are based on it, such as using mesh to assist factors in producing tooth model, sweaters or even plastic(inflatable bag which can change it's shape). Therefore, I take digital geometry processing these days by finishing online [coursework](https://github.com/Cavers-Chen/GeometryProcessing_). 
+I found that there is a lot of fun in geometry(mesh stuff) since many fantastic works are based on it, such as using mesh to assist factors in producing tooth model, sweaters or even plastic(inflatable bag which can change it's shape). Therefore, I am taking digital geometry processing these days by finishing online [coursework](https://github.com/Cavers-Chen/GeometryProcessing_). 
 
-Cat model reconstruction
+Cat model reconstruction - from assignment 2
 
 | cloud points | constrait | MLS |
 | :--- | --- | :--- |
