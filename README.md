@@ -38,12 +38,6 @@ with the tutorial of Peter Shirley, I had a basic understanding of ray tracing a
 
 - [code and more pictures](https://github.com/Cavers-Chen/RayTracingInOneWeek)
 
-* Perlin noise + light source
-<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/p6.png" width="50%">
-
-* some TERRIBLE things happened...
-<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/p7_4.png" width="50%">
-
 * final work of part one (use 12 hours to get this result)
 <img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part1/picture12.jpg" width="50%">
 
@@ -65,9 +59,6 @@ The beginning of my dream. I wrote this in my first summer vacation when I was a
 * two pictures during playing
 <img decoding="async" src="https://github.com/Cavers-Chen/MyGames/blob/main/my%20football%20game/picture/game1.png" width="50%">
 <img decoding="async" src="https://github.com/Cavers-Chen/MyGames/blob/main/my%20football%20game/picture/game2.png" width="50%">
-
-* Although I don't play football in real life, I was the honored player in this game. -- No.3 czy
-<img decoding="async" src="https://github.com/Cavers-Chen/MyGames/blob/main/my%20football%20game/picture/club.png">
 
 * I also wrote some small games while I tried to code this project, you can check all of them here! 
 [MyGames_CODE](https://github.com/Cavers-Chen/Mini-Game)
