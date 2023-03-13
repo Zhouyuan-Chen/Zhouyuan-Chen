@@ -82,8 +82,21 @@ This is an open class offered by an Internet company, and I am honored to be abl
 
 During the Spring Festival this year, I learned some stuff about NPR(I read this [tutorial](https://hal.inria.fr/hal-02189483/file/contour_tutorial.pdf) and had a basic understanding of the NPR), especially the line-drawing algorithms. Doing so helps me review my knowledge of topology, hope I am able to make an interesting demo later...
 
-Currently, I am working on implementing a collision detection library, I call it ColCal(Collision Calculation Library)
+Currently, I am working on implementing a collision detection library, I call it ColCal(Collision Calculation Library). Now you can check the source code by clicking this link!
 * [source code](https://github.com/Cavers-Chen/ColCal)
+```
+/////////////////////////////////////////////////////////////////
+///////       COLLISION CALCULATION LIBRARY (ColCal)      ///////
+///////  _____   _____   _       _____       ___   _      ///////
+/////// / ___|  /  _  \ | |     /  ___|     /   | | |     ///////
+/////// | |     | | | | | |     | |        / /| | | |     ///////
+/////// | |     | | | | | |     | |       / / | | | |     ///////
+/////// | |___  | |_| | | |___  | |___   / /  | | | |___  ///////
+/////// \_____| \_____/ |_____| \_____| /_/   |_| |_____| ///////
+///////                                                   ///////
+/////////////////////////////////////////////////////////////////
+```
+
 
 Meanwhile, since my former simulation code was missed, I plan to realize particle-based simulation and grid-based simulation these days.
 * [source code](https://github.com/Cavers-Chen/PhysicalSimulation)
