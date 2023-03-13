@@ -91,6 +91,7 @@ Meanwhile, since my former simulation code was missed, I plan to realize particl
 I found that there is a lot of fun in geometry(mesh stuff) since many fantastic works are based on it, such as using mesh to assist factors in producing tooth model, sweaters or even plastic(inflatable bag which can change it's shape). Therefore, I take digital geometry processing these days by finishing online [coursework](https://github.com/Cavers-Chen/GeometryProcessing_). 
 
 MLS
+
 <img decoding="async" src="https://github.com/Cavers-Chen/GeometryProcessing_/blob/main/assignment2/res/reconstruct_model/1.png" width="50%">
 
 ### Future Plan
