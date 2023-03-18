@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi, I am Cavers Chen and this is my personal website!
+# Hi, I am Cavers Chen and this is my temporary personal website!
 
 <img decoding="async" src="https://camo.githubusercontent.com/f9a322c724f1cbb47a2bbb5407a1abbd9b1f2a7481f0fce08bd177b59719e1b9/68747470733a2f2f6f63746f6465782e6769746875622e636f6d2f696d616765732f68756c615f6c6f6f705f6f63746f64657830332e676966" width="30%" align="center">
 
@@ -89,7 +89,9 @@ Currently, I am working on implementing a collision detection library, I call it
 ```
 #### Geometry Processing
 
-I found that there is a lot of fun in geometry(mesh stuff) since many fantastic works are based on it, such as using mesh to assist factors in producing tooth model, sweaters or even plastic(inflatable bag which can change it's shape). Therefore, I am taking digital geometry processing these days by finishing online [coursework](https://github.com/eth-igl/GP2022-Assignments).  Now, I set this repo as private, so, you can't find this in my acount. 
+I am taking a digital geometry processing course these days by finishing online [coursework](https://github.com/eth-igl/GP2022-Assignments). I finished assignment 4 last week and professor Panozzo's [materials](https://github.com/danielepanozzo/gp) are very helpful.
+
+I found that there is a lot of fun in geometry since many fantastic works are based on it, such as using mesh to assist factors in producing tooth model, sweaters or even plastic(inflatable bag which can change it's shape). Now, I set this repo as private, so, you can't find this in my acount. 
 
 #### Misc
 
@@ -105,4 +107,4 @@ This early year, I relatively have more spare time, so I would like learn some i
 
 ### Future Plan
 
-After entering graduate college, I would like to make my study more specific and focus on one of the aspects of rendering/simulation/geometry.
+After entering graduate college, I would like to make my study more specific and focus on one of the aspects of geometry/simulation/rendering.
