@@ -38,8 +38,9 @@ with the tutorial of Peter Shirley, I had a basic understanding of ray tracing a
 
 - [code and more pictures](https://github.com/Cavers-Chen/RayTracingInOneWeek)
 
-* final work of part one (use 12 hours to get this result)
 <img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part1/picture12.jpg" width="50%">
+
+<img decoding="async" src="https://github.com/Cavers-Chen/RayTracingInOneWeek/blob/main/OneWeekendRayTracingWorks/Part2/p7_4.png" width="50%">
 
 ### Shadertoy
 
