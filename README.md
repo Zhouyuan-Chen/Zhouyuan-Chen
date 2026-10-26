@@ -1,3 +1,4 @@
+For the joy of it, and for the hope of creating something worth remembering!
 <!--
 **Cavers-Chen/Cavers-Chen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
